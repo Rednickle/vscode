@@ -32,7 +32,7 @@
     "tree-kill": "1.2.2"
   },
   "dependencies": {
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^0.5.2",
     "ncp": "^2.0.0",
     "tmp": "0.1.0",
     "vscode-uri": "^2.0.3"
